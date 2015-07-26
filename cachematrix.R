@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This is the function to inverse and cache a matrix
+## 
 
 ## initial set and get matrix
 
